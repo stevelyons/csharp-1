@@ -11,6 +11,8 @@ Class Division
         int i = 56;
         int o = 32;
         int k = 89;
+        double q = 3.0;
+        double p = 1.5;
        
         Console.WriteLine(x/y);
         Console.WriteLine(y/x);
@@ -26,5 +28,6 @@ Class Division
         Console.writeline (g/e);
         Console.writeline (o/i);
         Console.writeline (d/o);
+        Console.writeline (q/p);
     }
 }
